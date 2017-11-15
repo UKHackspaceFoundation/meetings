@@ -1,2 +1,3 @@
 # meetings
-Meeting minutes and agendas
+
+Meeting minutes and agendas/talking points.
